@@ -6,7 +6,7 @@
 
   - __Product Owner__: Prithvi A
   - __Scrum Master__: Brittany
-  - __Development Team Members__: Andrew Cookro, Cal Holloway
+  - __Full Stack Developers__: Andrew Cookro, Cal Holloway
 
 ## Table of Contents
 
