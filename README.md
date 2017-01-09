@@ -1,6 +1,6 @@
-# Project Name
+# Crash-Course
 
-> Crash-Course
+> Test Taking App emulating a game to help remedy test anxiety among children
 
 ## Team
 
